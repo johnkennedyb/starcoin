@@ -42,7 +42,7 @@ const Ref = () => {
           <p style={{ margin: 0, fontSize: '27px', fontWeight: 'bold' }}>yet</p>
         </div>
 
-        <div style={{ margin: '30px 0', marginBottom:'90px', paddingLeft:'20px',paddingRight:'20px' }}>
+        <div style={{ margin: '30px 0', marginBottom:'150px', paddingLeft:'20px',paddingRight:'20px' }}>
           <button className="py-2 px-5 text-dark" style={{borderRadius:'20px', backgroundColor:'#FDE49B' , paddingLeft:'20px',paddingRight:'20px'}}>
           <p style={{ margin: 0, fontSize: '20px' }}>Invite Friends</p>
           <p style={{ margin: 0, fontSize: '14px', fontWeight: 'bold' }}>and get 2500 coin each</p>
