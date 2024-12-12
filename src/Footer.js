@@ -3,7 +3,7 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <footer className="d-flex  justify-content-around  mt-2  mb-2 pb-3  " >
+        <footer className="d-flex  justify-content-around  mt-2   pb-4  " >
       <a href='/ref'  style={{ textDecoration: 'none', color:'white' }}> <div className="text-center bg-gray-700 p-2" style={{backgroundColor:'#454545', borderRadius:'15px'}}>
           <img
             src="https://res.cloudinary.com/dw7w2at8k/image/upload/v1734013836/boliviano_1_hj1aqj.png"

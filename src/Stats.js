@@ -4,7 +4,7 @@ import Footer from "./Footer";
 
 const Stat = () => {
   return (
-    <div className="app-container bg-dark" style={{ fontFamily: 'Arial, sans-serif', color: '#fff', textAlign: 'center' }}>
+    <div className=" bg-dark" style={{ fontFamily: 'Arial, sans-serif', color: '#fff', textAlign: 'center' }}>
      
 
 
@@ -43,7 +43,7 @@ const Stat = () => {
           <p style={{ margin: 0, fontSize: '20px', fontWeight: 'bold' }}>216</p>
         </div>
 
-        <div style={{ margin: '10px 0', marginBottom:'195px' }}>
+        <div style={{ margin: '10px 0', marginBottom:'140px' }}>
           <p style={{ margin: 0, fontSize: '16px' }}>Online players</p>
           <p style={{ margin: 0, fontSize: '20px', fontWeight: 'bold' }}>36</p>
         </div>

@@ -4,7 +4,7 @@ import Footer from "./Footer";
 
 const Ref = () => {
   return (
-    <div className="app-container bg-dark" style={{ fontFamily: 'Arial, sans-serif', color: '#fff',  textAlign: 'center' }}>
+    <div className="bg-dark flex min-vh-100" style={{ fontFamily: 'Arial, sans-serif', color: '#fff',  textAlign: 'center',minHeight: '100vh' }}>
      
 
 
