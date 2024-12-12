@@ -41,7 +41,7 @@ function Task() {
       {/* Boosters Section */}
       <div>
         <h6 className="mb-3 ms-2">Boosters</h6>
-        <div className="list-group mb-3 text-white ms-4">
+        <div className="list-group mb-3 text-white mx-4">
           <button style={{backgroundColor:'#454545' , borderRadius:'10px'}} className=" mb-2 list-group-item list-group-item-action d-flex justify-content-between align-items-center text-white">
             <div className="d-flex align-items-center">
             <img
