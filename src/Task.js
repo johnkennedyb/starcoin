@@ -115,6 +115,24 @@ function Task() {
             
           </button>
 
+          <button style={{backgroundColor:'#454545' , borderRadius:'10px'}}  className=" mb-2 list-group-item text-white list-group-item-action d-flex justify-content-between align-items-center">
+            <div className="d-flex align-items-center">
+              <img src="https://res.cloudinary.com/dw7w2at8k/image/upload/v1734013846/bitcoin-mining_jlusvm.png" alt="Recharging speed" className="img-fluid me-3" style={{ height: '30px' }} />
+              <span>Join our Facebook <br/>    <span>    <img
+          src="https://res.cloudinary.com/dw7w2at8k/image/upload/v1734013836/boliviano_1_hj1aqj.png"
+          alt="referral icon"
+          className="img-fluid"
+          style={{ width: "20px", height: "20px" }}
+        /> 2000 <i className="bi bi-coin"></i></span>
+
+        </span>
+
+            </div>
+                      &gt;
+
+            
+          </button>
+
          
         </div>
       </div>

@@ -43,7 +43,7 @@ const Stat = () => {
           <p style={{ margin: 0, fontSize: '20px', fontWeight: 'bold' }}>216</p>
         </div>
 
-        <div style={{ margin: '10px 0', marginBottom:'90px' }}>
+        <div style={{ margin: '10px 0', marginBottom:'195px' }}>
           <p style={{ margin: 0, fontSize: '16px' }}>Online players</p>
           <p style={{ margin: 0, fontSize: '20px', fontWeight: 'bold' }}>36</p>
         </div>
