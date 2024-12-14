@@ -39,3 +39,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Slide-In Modal Animation */
+@keyframes slideInFromBottom {
+  0% {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.slide-in-modal .modal-body {
+  animation: slideInFromBottom 0.5s ease-out forwards;
+}

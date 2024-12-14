@@ -3,10 +3,10 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <footer className="d-flex  justify-content-around  mt-2   pb-4  " >
+        <footer className="d-flex  bottom-0 fixed justify-content-around  mt-2   pb-4  " >
       <a href='/ref'  style={{ textDecoration: 'none', color:'white' }}> <div className="text-center bg-gray-700 p-2" style={{backgroundColor:'#454545', borderRadius:'15px'}}>
           <img
-            src="https://res.cloudinary.com/dw7w2at8k/image/upload/v1734013836/boliviano_1_hj1aqj.png"
+            src="https://res.cloudinary.com/dw7w2at8k/image/upload/v1734097662/ref_vyg9bj.png"
             alt="referral icon"
             className="img-fluid"
             style={{ width: "35px", height: "35px" }}
@@ -15,7 +15,7 @@ const Footer = () => {
         </div></a> 
         <a href='/task'   style={{ textDecoration: 'none', color:'white' }}>  <div className="text-center bg-gray-700 p-2" style={{backgroundColor:'#454545', borderRadius:'15px'}}>
           <img
-            src="https://res.cloudinary.com/dw7w2at8k/image/upload/v1734013846/bitcoin-mining_jlusvm.png"
+            src="https://res.cloudinary.com/dw7w2at8k/image/upload/v1734097658/tasks_defx2g.png"
             alt="tasks icon"
             className="img-fluid"
             style={{ width: "35px", height: "35px" }}
@@ -24,7 +24,7 @@ const Footer = () => {
         </div></a>
         <a href='/'   style={{ textDecoration: 'none', color:'white' }}>   <div className="text-center bg-gray-700 p-2" style={{backgroundColor:'#454545', borderRadius:'15px'}}>
           <img
-            src="https://res.cloudinary.com/dw7w2at8k/image/upload/v1734014471/dollar_edhgid.png"
+            src="https://res.cloudinary.com/dw7w2at8k/image/upload/v1734096881/coin_aq3vpy.png"
             alt="tap icon"
             className="img-fluid"
             style={{ width: "35px", height: "35px" }}
@@ -34,7 +34,7 @@ const Footer = () => {
         </div></a>
         <a href='/boost'   style={{ textDecoration: 'none', color:'white' }}> <div className="text-center bg-gray-700 p-2" style={{backgroundColor:'#454545', borderRadius:'15px'}}>
           <img
-            src="https://res.cloudinary.com/dw7w2at8k/image/upload/v1734014551/rocket_cgshwn.png"
+            src="https://res.cloudinary.com/dw7w2at8k/image/upload/v1734097659/boosts_e7nnfc.png"
             alt="boost icon"
             className="img-fluid"
             style={{ width: "35px", height: "35px" }}
@@ -44,7 +44,7 @@ const Footer = () => {
         <a href='/stat'   style={{ textDecoration: 'none', color:'white' }}>
         <div className="text-center bg-gray-700 p-2" style={{backgroundColor:'#454545', borderRadius:'15px'}}>
           <img
-            src="https://cdn-icons-png.flaticon.com/512/2913/2913981.png"
+            src="https://res.cloudinary.com/dw7w2at8k/image/upload/v1734097663/stats_cdpn3m.png"
             alt="stats icon"
             className="img-fluid"
             style={{ width: "35px", height: "35px" }}

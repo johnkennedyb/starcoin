@@ -10,20 +10,22 @@ const Stat = () => {
 
       <div className="stats">
       <div
-  className="text-center py-5 mb-4"
+  className="text-center  "
   style={{
-    background: `radial-gradient(circle, rgba(255,223,186,0.8) 20%, transparent 20%), 
-                 radial-gradient(circle, rgba(255,223,186,0.6) 10%, transparent 10%), 
-                 radial-gradient(circle, rgba(255,223,186,0.4) 5%, transparent 5%)`,
-    backgroundSize: '50px 50px',
-    backgroundPosition: '0 0, 25px 25px, 12px 12px',
-    backgroundColor: '', // fallback color
+    background: "url(https://res.cloudinary.com/dw7w2at8k/image/upload/v1734122027/mini_r1o5dg.png)",
+    backgroundSize: "cover", // Ensures the image covers the entire container
+    backgroundRepeat: "no-repeat", // Prevents tiling of the image
+    backgroundPosition: "center", // Centers the image in the container
+    paddingTop:'40px',
+    paddingBottom:'70px'
+
   }}
+  
 >
   <small>Your share balance</small>
   <div className="fs-1 d-flex justify-content-center" style={{ color: '#fde49b', zIndex:200 }}>
     <img
-      src="https://res.cloudinary.com/dw7w2at8k/image/upload/v1734012205/png-transparent-star-coin-star-coins-coin-star-money-payment-3d-icon-thumbnail-removebg-preview_1_wb89ho.png"
+      src="https://res.cloudinary.com/dw7w2at8k/image/upload/v1734097658/tap_ujyksb.png"
       alt="starcoin"
       className="img-fluid"
       style={{ width: '100px', height: '100px' }}
@@ -33,7 +35,7 @@ const Stat = () => {
 </div>
 
 
-        <div style={{ margin: '10px 0' }}>
+        <div style={{ margin: '0 0' }}>
           <p style={{ margin: 0, fontSize: '16px' }}>Total players</p>
           <p style={{ margin: 0, fontSize: '20px', fontWeight: 'bold' }}>1,222</p>
         </div>

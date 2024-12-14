@@ -12,7 +12,7 @@ const Tap = () => {
       </header> */}
       <div className="flex text-center mt-4" >
         <div className="d-flex align-items-center justify-content-center" style={{marginTop:'20px'}}>     <img
-          src="https://res.cloudinary.com/dw7w2at8k/image/upload/v1734007108/download__5_-removebg-preview_jfpee9.png"
+          src="https://res.cloudinary.com/dw7w2at8k/image/upload/v1734096881/coin_aq3vpy.png"
           alt="coin icon"
           className="img-fluid"
           style={{ width: "50px", height: "50px" }}
@@ -21,17 +21,17 @@ const Tap = () => {
     
         <div className="d-flex justify-content-center mt-3 align-items-center">
           <img
-            src="https://cdn-icons-png.flaticon.com/512/3135/3135706.png"
+            src="https://res.cloudinary.com/dw7w2at8k/image/upload/v1734097621/bronze_mby0kz.png"
             alt="trophy icon"
             className="me-2"
             style={{ width: "20px", height: "20px" }}
           />
-          <p>Bronze   &gt;</p>
+          <p className="mt-2">Bronze   &gt;</p>
         </div>
       </div>
       <div className="d-flex justify-content-center mx-4 my-4">
   <img
-    src="https://res.cloudinary.com/dw7w2at8k/image/upload/v1734012205/png-transparent-star-coin-star-coins-coin-star-money-payment-3d-icon-thumbnail-removebg-preview_1_wb89ho.png"
+    src="https://res.cloudinary.com/dw7w2at8k/image/upload/v1734096883/tap-coin_zzfafc.png"
     alt="starcoin"
     className="img-fluid"
     style={{ width: "250px", height: "250px" }}
@@ -40,8 +40,8 @@ const Tap = () => {
 
       <div className="my-4">
         <div className="d-flex  mb-3 justify-content-center align-items-center">
-        <i className="fas fa-bolt me-2" style={{ fontSize: "20px", color: "#ffd700" }}></i>
-
+<img src="https://res.cloudinary.com/dw7w2at8k/image/upload/v1734096881/energy_h0mdpw.png"
+style={{width: "50px", height: "50px" }} />
           <p>500/500</p>
         </div>
         <div className="progress mx-auto mb-4" style={{ height: "10px", width: "80%", marginBottom:'20px' }}>
